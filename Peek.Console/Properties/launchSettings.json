@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Peek.Console": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
